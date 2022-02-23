@@ -1,13 +1,10 @@
-body {
-  background-color: black;
-}
+=<!DOCTYPE html>
+<html>
+<body>
 
-h1 {
-  color: gold;
-  text-align: left;
-}
+<h1 style="color:blue;">A Blue Heading</h1>
 
-h {
-  color: gold;
-  text-align: left;
-}
+<h style="color:red;">A red paragraph.</h>
+
+</body>
+</html>
